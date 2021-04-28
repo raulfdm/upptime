@@ -4,7 +4,7 @@
     "url": "https://raulmelo.dev",
     "icon": "https://favicons.githubusercontent.com/raulmelo.dev",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 269,
     "timeDay": 1083,
     "timeWeek": 487,
-    "timeMonth": 282,
+    "timeMonth": 284,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 205,
     "timeDay": 531,
     "timeWeek": 268,
-    "timeMonth": 211,
+    "timeMonth": 205,
     "timeYear": 205,
     "dailyMinutesDown": {}
   }
