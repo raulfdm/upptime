@@ -22,17 +22,17 @@
     "url": "https://raulfdm-blog-components.netlify.app",
     "icon": "https://favicons.githubusercontent.com/raulfdm-blog-components.netlify.app",
     "slug": "blog-components-storybook",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 23,
-    "timeWeek": 246,
-    "timeMonth": 250,
-    "timeYear": 208,
+    "time": 213,
+    "timeDay": 246,
+    "timeWeek": 274,
+    "timeMonth": 257,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   }
 ]
