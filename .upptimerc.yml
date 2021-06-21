@@ -6,10 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Personal Website
     url: https://raulmelo.dev
-  - name: Blog Components storybook
-    url: https://raulfdm-blog-components.netlify.app
-  # - name: Lambdas
-  #   url: https://raulfdm-blog-components.netlify.app
+  - name: CMS
+    url: https://raulmelo-dev-server.herokuapp.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
