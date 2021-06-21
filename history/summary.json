@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Blog Components storybook",
-    "url": "https://raulfdm-blog-components.netlify.app",
-    "icon": "https://favicons.githubusercontent.com/raulfdm-blog-components.netlify.app",
-    "slug": "blog-components-storybook",
+    "name": "CMS",
+    "url": "https://raulmelo-dev-server.herokuapp.com",
+    "icon": "https://favicons.githubusercontent.com/raulmelo-dev-server.herokuapp.com",
+    "slug": "cms",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 128,
-    "timeWeek": 174,
-    "timeMonth": 232,
-    "timeYear": 216,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
   }
 ]
