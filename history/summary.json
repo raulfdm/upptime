@@ -22,17 +22,17 @@
     "url": "https://raulmelo-dev-server.herokuapp.com",
     "icon": "https://favicons.githubusercontent.com/raulmelo-dev-server.herokuapp.com",
     "slug": "cms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 400,
-    "timeWeek": 472,
-    "timeMonth": 1268,
-    "timeYear": 1069,
+    "time": 1061,
+    "timeDay": 552,
+    "timeWeek": 497,
+    "timeMonth": 1251,
+    "timeYear": 1061,
     "dailyMinutesDown": {}
   }
 ]
